@@ -15,3 +15,6 @@ And you have to edit the openhab2 API IP.
 Everything will be logged to piRecReci.log
 
 For sending commands from openhab2 to pilight see my openhab folder under scripts, I use the Exec binding and curl for connection to pilight 8+ API
+
+# rpi_STX882_gpio.py
+a small script to get STX882 433 mhz receiver working with my rasperrypi
